@@ -1,1 +1,1 @@
-# Acámica DS 76 - Proecto 1
+# Acámica DS 76 - Proyecto 1
